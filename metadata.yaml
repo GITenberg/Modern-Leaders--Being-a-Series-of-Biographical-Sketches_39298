@@ -1,0 +1,36 @@
+_repo: Modern-Leaders--Being-a-Series-of-Biographical-Sketches_39298
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McCarthy, Justin
+    alias: M'Carthy, Justin
+    birthdate: 1830
+    deathdate: 1912
+    gutenberg_agent_id: '1783'
+    url: http://www.gutenberg.org/2009/agents/1783
+    wikipedia: http://en.wikipedia.org/wiki/Justin_McCarthy_(1830%E2%80%931912)
+description: ''
+gutenberg_issued: '2012-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Biography'
+tableOfContents: 'Queen Victoria and her subjects -- The real Louis Napoleon -- Eugenie,
+  Empress of the French -- The Prince of Wales -- The King of Prussia -- Victor Emanuel,
+  King of Italy -- Louis Adolph Thiers -- Prince Napoleon -- The Duke of Cambridge
+  -- Brigham Young -- The Liberal Triumvirate of England -- English Positivists --
+  English Toryism and its leaders -- "George Eliot" and George Lewes -- George Sand
+  -- Edward Bulwer and Lord Lytton -- Par Nobile Fratrum: the two Newmans -- Archbishop
+  Manning -- John Ruskin -- Charles Reade -- The exile-world of London -- The Reverend
+  Charles Kingsley -- Mr. James Anthony Froude -- Science and orthodoxy in England.'
+title: 'Modern Leaders: Being a Series of Biographical Sketches'
+url: http://www.gutenberg.org/ebooks/39298
